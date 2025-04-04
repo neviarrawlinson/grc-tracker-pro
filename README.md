@@ -1,14 +1,29 @@
-# GRC Tracker Pro
+# 📊 GRC Tracker Pro
 
-This is a beginner-friendly Governance, Risk, and Compliance (GRC) project built in Python.
+**Governance, Risk, and Compliance (GRC) Risk Register Project**  
+Built with Python as a command-line tool to track, manage, and view risks.
 
-### Features
-- Add a new risk
-- Calculate risk scores (Likelihood x Impact)
-- Save to CSV
-- View all saved risks in a simple menu
+---
 
-### How to Run
+## 🚀 Features
+- Add and rate risks (Likelihood x Impact)
+- Automatically calculate Risk Score
+- Save risks to a CSV file
+- View and display risk register
+- Simple CLI-based menu for usability
 
+---
+
+## 🛠️ Tech Stack
+- Python 3
+- CSV for lightweight data storage
+- Git for version control
+
+---
+
+## 📋 How to Run Locally
+
+1. Clone the repository:
 ```bash
-python3 risk_register.py
+git clone https://github.com/neviarrawlinson/grc-tracker-pro.git
+cd grc-tracker-pro
